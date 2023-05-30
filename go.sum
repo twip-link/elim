@@ -1,0 +1,6 @@
+github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
+github.com/twip-link/bashir v0.0.0-20230529191256-9b898b6c41ae h1:BYwb+cv5Jk9IhFBxqop1iMJkxbluD3fvGqo4ff0n6UU=
+github.com/twip-link/bashir v0.0.0-20230529191256-9b898b6c41ae/go.mod h1:NGnY2fB6DsphuNz6avrwn7WXRmNh9OwxOF0F1f4BQ0k=
+github.com/twip-link/bashir v0.0.0-20230529222539-8d54941c1317 h1:ImmcHpuXo1iFXuazRn5ydpGZzErwyunniuZoT9+bPPY=
+github.com/twip-link/bashir v0.0.0-20230529222539-8d54941c1317/go.mod h1:NGnY2fB6DsphuNz6avrwn7WXRmNh9OwxOF0F1f4BQ0k=
